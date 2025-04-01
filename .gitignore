@@ -1,0 +1,17 @@
+# Output and log files
+ERR.LOG
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# MacOS junk files (if you're on Mac)
+.DS_Store
+
+# VSCode settings (if you use it)
+.vscode/
+
+# Backup files
+*~
